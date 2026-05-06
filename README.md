@@ -9,8 +9,6 @@ notification_system_design.md  - Stages 1-6 design
 notification_app_be/    - Backend 
 notification_app_fe/    - Frontend 
 
-## Setup
-
 ### Backend
 cd notification_app_be
 npm install
