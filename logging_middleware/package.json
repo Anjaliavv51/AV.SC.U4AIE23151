@@ -1,0 +1,11 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "main": "logger.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
